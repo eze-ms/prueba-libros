@@ -9,6 +9,5 @@
 </head>
 <body>
     <h1>Listado de Libros de Open Library por Género</h1>
-    <?php include 'functions.php';?>
 </body>
 </html>
